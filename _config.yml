@@ -30,7 +30,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-merlot
+#merlot change starts
+show_downloads: false
+google_analytics:
+#merlot change ends
+
 plugins:
   - jekyll-feed
 
