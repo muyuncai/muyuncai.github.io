@@ -4,7 +4,12 @@
 
 #layout: home
 layout: default
+my_number: 5
+title: Home
 ---
+
+<h1>{{ "Hello World!" | downcase }}</h1>
+{{page.my_number}}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
