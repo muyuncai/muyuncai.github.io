@@ -34,6 +34,25 @@ theme: jekyll-theme-merlot
 show_downloads: false
 google_analytics:
 #merlot change ends
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 plugins:
   - jekyll-feed
