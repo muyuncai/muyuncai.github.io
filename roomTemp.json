@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "roomName": "Pet's Room",
+        "temperature": "22 Celsius"
+    },
+    {
+        "id": "2",
+        "roomName": "Bedroom",
+        "temperature": "24 Celsius"
+    }
+]
