@@ -32,7 +32,7 @@ github_username:  jekyll
 theme: jekyll-theme-merlot
 #merlot change starts
 show_downloads: false
-google_analytics:
+google_analytics: true
 #merlot change ends
 collections:
   authors:

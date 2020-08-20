@@ -45,3 +45,11 @@ https://www.w3schools.com/jsref/met_node_appendchild.asp
     </script>
 </body>
 </html>
+
+What's the best way to guide an engineer to make an IOT accessory?
+
+Here are some ideas:
+1. Raspberry pi and Arduino might have good documentations
+2. In a general sense, the guidance to make an IOT accessory could borrow from the best practices to guide someone build a hardware accessory. For example, making a bluetooth speaker / headphone.
+
+This is the starting place: https://staceyoniot.com/podcast-how-to-build-your-own-iot-device/
