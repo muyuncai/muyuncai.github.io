@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
+title: Home
 ---
-# About page
+# Home page
 
 In this site, I share some hobbies of mine. Wine, fine-dining, retro-games just to name a few.
