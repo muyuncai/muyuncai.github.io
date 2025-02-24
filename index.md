@@ -2,6 +2,6 @@
 layout: default
 title: Home
 ---
-# Home page
+# Welcome to My Portfolio
 
-In this site, I share some hobbies of mine. Wine, fine-dining, retro-games just to name a few.
+I am a Software Engineer passionate about building impactful solutions. Here you'll find my projects, skills, and professional experience.
