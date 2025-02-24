@@ -1,12 +1,4 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
-- name: Wine
-  link: /wine.html
-- name: IOT
-  link: /iot.html
 - name: Markdown
   link: /markdownReference.html

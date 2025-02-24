@@ -8,7 +8,7 @@ my_number: 5
 title: Markdown
 ---
 
-This page is a reference & testing ground for Markdown
+This page is a reference & showcase for Markdown
 
 <h1>{{ "Hello World!" | downcase }}</h1>
 {{page.my_number}}
