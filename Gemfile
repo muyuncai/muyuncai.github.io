@@ -32,7 +32,3 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "jekyll-theme-minimal"
-gem "jekyll-theme-chirpy"
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-seo-tag"
