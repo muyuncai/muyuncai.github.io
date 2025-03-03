@@ -9,11 +9,11 @@ I am a Software Engineer passionate about building impactful solutions. I specia
 
 ## Featured Projects
 
-### Grocery Price Comparison App
+### [Grocery Price Comparison App](https://grocery-comparison-with-react.web.app/)
 A React-based application that compares grocery prices across different stores. Built with modern web technologies and AI assistance.
 - **Tech Stack**: React, Firebase
 - **Demo**: [Live Site](https://grocery-comparison-with-react.web.app/)
-- **Source**: [GitHub Repository](#) <!-- Add your repo link -->
+- **Source**: [GitHub Repository](https://github.com/muyuncai/grocery-price-comparison)
 
 ## Skills
 
